@@ -32,7 +32,7 @@ I'm Tirth, a full-stack developer from the green-city 🌳🌳🌳 [Gandhinagar,
 - Serverless Framework, Apollo Server GraphQL, Prisma, Nexus
 - NodeJS, Express JS, TypeORM
 
-### <img align="left" width="24" height="24" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS
+### <img align="left" width="24" height="24" src="https://img.icons8.com/fluent/48/000000/clouds.png"/> AWS
 - ECS, AWS S3, AWS SQS, AWS SNS, AWS Lambda, AWS Cloudfront, AWS Cloudwatch, DynamoDB, AWS RDS, AWS ALB, AWS ELB, EC2 Auto Scaling Groups, AWS WAF, AWS KMS, VPC, IAM, etc. (I know, I know, I should get certified!)
 
 
