@@ -16,7 +16,7 @@ I'm Tirth, a full-stack developer from the green-city 🌳🌳🌳 [Gandhinagar,
 ### Frontend
 
 - Next JS, React JS, Vue3, Vue, Nuxt JS, TypeScript, React-router, Redux, Redux-Sagas, URQL, React-Hook-Form, Jest, Cypress, ES-Next, ES2020, ES2018, ES6
-- TailwindCSS, Emotion, Styled-Components, SCSS.
+- TailwindCSS, Ant Design, Chakra UI, Emotion, Styled-Components, SCSS.
 
 ### Backend
 - NodeJS, Express JS, Serverless Framework, Apollo server GraphQL, Prisma, TypeORM. ECS, AWS S3, AWS SQS, AWS SNS, AWS Lambda, AWS Cloudfront, AWS Cloudwatch, DynamoDB, AWS RDS, AWS ALB, AWS ELB, EC2 Auto Scaling Groups, AWS WAF, AWS KMS, VPC, IAM.
@@ -35,18 +35,3 @@ I'm Tirth, a full-stack developer from the green-city 🌳🌳🌳 [Gandhinagar,
 
 ----
 <a href="https://icons8.com/">Icons from Icons8</a>
-
-<!--
-**tirthGajjar/tirthGajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
