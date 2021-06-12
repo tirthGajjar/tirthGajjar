@@ -1,4 +1,9 @@
 ### Hi there 👋
+----
+I'm Tirth, a full-stack developer from the green-city 🌳🌳🌳 [Gandhinagar, India](https://en.wikipedia.org/wiki/Gandhinagar). I'm current working with 🏢 [@RAx Labs Inc.](https://github.com/orgs/Rygbee) as a Product Architect ⚙.
+
+###  <img src="https://img.icons8.com/fluent/24/000000/layers.png"/>  I'm currently learning IaC and CI tools like terraform and ansible.
+ - nckjdnkc
 
 <!--
 **tirthGajjar/tirthGajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
