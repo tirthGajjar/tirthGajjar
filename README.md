@@ -1,8 +1,8 @@
 ### Hi there 👋
 ----
-I'm Tirth, a full-stack developer from the green-city 🌳🌳🌳 [Gandhinagar, India](https://en.wikipedia.org/wiki/Gandhinagar). I'm current working with as a tech consultant and developer with multiple clients.
+I'm Tirth, a full-stack developer from the green-city 🌳🌳🌳 [Gandhinagar, India](https://en.wikipedia.org/wiki/Gandhinagar). I'm currently working as a tech consultant and developer with multiple clients.
 
-<img align="left" width="24" height="24" src="https://img.icons8.com/fluent/48/000000/goal.png"/>I thrive to build great software products and engineering teams from ground up and have successfully done so, over the period of last 3 years.
+<img align="left" width="24" height="24" src="https://img.icons8.com/fluent/48/000000/goal.png"/>I strive to build great software products and engineering teams from the ground up and have successfully done so, over the period of last 7 years.
 
 <img align="left" width="24" height="24" src="https://img.icons8.com/fluent/30/000000/layers.png"> I'm currently learning IaC and CI tools like terraform and ansible.
 
@@ -20,7 +20,7 @@ I'm Tirth, a full-stack developer from the green-city 🌳🌳🌳 [Gandhinagar,
 ### <img align="left" width="24" height="24" src="https://img.icons8.com/fluent/48/000000/filled-star.png"/> Primary Language Tooling
 - TypeScript 
 - JavaScript (ES6, ES7, ES2018, ES2020, ESNext)
-- Testing : Jest, Cypress
+- Testing: Jest, Cypress
 
 ### <img align="left" width="24" height="24" src="https://img.icons8.com/fluent/48/000000/dashboard-layout.png"/> Frontend
 
